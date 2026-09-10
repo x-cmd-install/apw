@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 69707042,
       "digest": "sha256:79b52167a7ce504f4824d0c10041fece0cf41ebd6615a3973b7f0aedf318cb77",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-07-30T10:48:19Z",
       "updated_at": "2026-07-30T10:48:22Z",
       "browser_download_url": "https://github.com/bendews/apw/releases/download/v1.1.1/apw-aarch64-apple-darwin"
