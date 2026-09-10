@@ -12,6 +12,17 @@ A CLI for Apple Passwords (also known as iCloud Keychain)
 x install apw
 ```
 
+## Code insight
+
+Total: **885** lines of code across **11** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 816 | 0 | 81 | 8 |
+| JavaScript | 54 | 0 | 3 | 1 |
+| Json | 15 | 0 | 0 | 1 |
+| Markdown | 0 | 119 | 63 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/bendews/apw>
@@ -22,13 +33,6 @@ x install apw
 - **Latest**: `v1.1.1` (2026-07-30)
 - **Last commit**: 2026-08-24
 - **Assets in release**: 2
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [apw-aarch64-apple-darwin](https://github.com/bendews/apw/releases/download/v1.1.1/apw-aarch64-apple-darwin) | 66.5 MiB | `native/darwin/arm64` |
-| [apw-x86_64-apple-darwin](https://github.com/bendews/apw/releases/download/v1.1.1/apw-x86_64-apple-darwin) | 77.7 MiB | `native/darwin/x64` |
 
 ## Popularity
 
@@ -43,19 +47,18 @@ x install apw
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 1 | 2 | 0 | 1 | 1 |
+| last60d | 2026-07-12 | 2 | 5 | 2 | 0 | 1 | 9 |
 | 90d | 2026-06-12 | 2 | 5 | 2 | 0 | 1 | 9 |
+| last180d | 2026-03-14 | 2 | 5 | 2 | 48 | 1 | 9 |
 | 360d | 2025-09-15 | 3 | 7 | 2 | 48 | 1 | 11 |
+| last720d | 2024-09-20 | 5 | 9 | 2 | 53 | 1 | 17 |
 
-## Code size
+## Release assets
 
-Total: **885** lines of code across **11** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 816 | 0 | 81 | 8 |
-| JavaScript | 54 | 0 | 3 | 1 |
-| Json | 15 | 0 | 0 | 1 |
-| Markdown | 0 | 119 | 63 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [apw-aarch64-apple-darwin](https://github.com/bendews/apw/releases/download/v1.1.1/apw-aarch64-apple-darwin) | 66.5 MiB | `native/darwin/arm64` |
+| [apw-x86_64-apple-darwin](https://github.com/bendews/apw/releases/download/v1.1.1/apw-x86_64-apple-darwin) | 77.7 MiB | `native/darwin/x64` |
 
 ## Improve this data
 
@@ -66,4 +69,4 @@ Install metadata for apw lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:17:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:12:28Z._
