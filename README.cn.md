@@ -4,7 +4,7 @@
 
 A CLI for Apple Passwords (also known as iCloud Keychain)
 
-![apw](https://repo.x-cmd.io/apw.svg)
+![apw](https://repo.x-cmd.io/apw.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,17 @@ x install apw
 - **最新版本**: `v1.1.1` (2026-07-30)
 - **最近提交**: 2026-08-24
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-07-30T10:48:22Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [apw-aarch64-apple-darwin](https://github.com/bendews/apw/releases/download/v1.1.1/apw-aarch64-apple-darwin) | 66.5 MiB | `native/darwin/arm64` |
+| [apw-x86_64-apple-darwin](https://github.com/bendews/apw/releases/download/v1.1.1/apw-x86_64-apple-darwin) | 77.7 MiB | `native/darwin/x64` |
 
 ## 流行度
 
-- **Star**: 240 · **Fork**: 17 · **开放 issue**: 56 · **贡献者**: 4
+- **Star**: 245 · **Fork**: 17 · **开放 issue**: 56 · **贡献者**: 4
 
 ## 累计统计
 
@@ -60,4 +66,4 @@ apw 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:45:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:17:42Z._
