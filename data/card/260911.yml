@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.1.1"
   latestRelease: "v1.1.1"
   latestPrerelease: "v0.0.3"
-  collectedAt: 2026-09-11T03:42:53Z
+  collectedAt: 2026-09-11T20:50:41Z
 timeline:
   created: 2024-03-26
   lastCommit: 2026-08-24
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-30
   lastPrerelease: 2024-03-27
 popularity:
-  star: 245
+  star: 246
   watcher: 1
   fork: 17
   release: 7
@@ -84,7 +84,7 @@ total:
   commit: 30
 ---
 path: /home/runner/.x-repo/github.com/bendews/apw
-collectedAt: 2026-09-11T03:42:54Z
+collectedAt: 2026-09-11T20:50:41Z
 loc:
   TypeScript:
     code: 816
