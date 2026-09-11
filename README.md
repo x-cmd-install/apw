@@ -46,12 +46,12 @@ Total: **885** lines of code across **11** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 2 | 0 | 1 | 1 |
-| last60d | 2026-07-12 | 2 | 5 | 2 | 0 | 1 | 9 |
-| 90d | 2026-06-12 | 2 | 5 | 2 | 0 | 1 | 9 |
-| last180d | 2026-03-14 | 2 | 5 | 2 | 48 | 1 | 9 |
-| 360d | 2025-09-15 | 3 | 7 | 2 | 48 | 1 | 11 |
-| last720d | 2024-09-20 | 5 | 9 | 2 | 53 | 1 | 17 |
+| 30d | 2026-08-12 | 0 | 1 | 2 | 0 | 1 | 1 |
+| last60d | 2026-07-13 | 2 | 5 | 2 | 0 | 1 | 9 |
+| 90d | 2026-06-13 | 2 | 5 | 2 | 0 | 1 | 9 |
+| last180d | 2026-03-15 | 2 | 5 | 2 | 48 | 1 | 9 |
+| 360d | 2025-09-16 | 3 | 7 | 2 | 48 | 1 | 11 |
+| last720d | 2024-09-21 | 5 | 9 | 2 | 53 | 1 | 17 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for apw lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:38:03Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T03:42:58Z._
