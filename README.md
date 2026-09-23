@@ -4,7 +4,7 @@
 
 A CLI for Apple Passwords (also known as iCloud Keychain)
 
-[![x-cmd/install — apw Code Quality Monitoring Repo Card](https://repo.x-cmd.io/apw.svg)](https://x-cmd.com/install/apw)
+[![x-cmd/install — apw Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/apw.svg)](https://x-cmd.com/install/apw)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **885** lines of code across **11** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 2 | 5 | 2 | 0 | 1 | 4 |
-| 90d | 2026-06-24 | 2 | 5 | 2 | 0 | 1 | 9 |
-| last180d | 2026-03-26 | 2 | 5 | 2 | 48 | 1 | 9 |
-| 360d | 2025-09-27 | 3 | 7 | 2 | 48 | 1 | 11 |
-| last720d | 2024-10-02 | 4 | 8 | 2 | 51 | 1 | 14 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 2 | 5 | 2 | 0 | 1 | 4 |
+| 90d | 2026-06-25 | 2 | 5 | 2 | 0 | 1 | 9 |
+| last180d | 2026-03-27 | 2 | 5 | 2 | 48 | 1 | 9 |
+| 360d | 2025-09-28 | 3 | 7 | 2 | 48 | 1 | 11 |
+| last720d | 2024-10-03 | 4 | 8 | 2 | 51 | 1 | 14 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for apw lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:58:38Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:56:33Z._
