@@ -14,11 +14,11 @@ x install apw
 
 ## Code insight
 
-Total: **885** lines of code across **11** files in the top 5 languages.
+Total: **887** lines of code across **11** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 816 | 0 | 81 | 8 |
+| TypeScript | 818 | 3 | 81 | 8 |
 | JavaScript | 54 | 0 | 3 | 1 |
 | Json | 15 | 0 | 0 | 1 |
 | Markdown | 0 | 119 | 63 | 1 |
@@ -31,27 +31,27 @@ Total: **885** lines of code across **11** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.1` (2026-07-30)
-- **Last commit**: 2026-08-24
+- **Last commit**: 2026-10-15
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 257 · **Forks**: 21 · **Open issues**: 56 · **Contributors**: 4
+- **Stars**: 257 · **Forks**: 22 · **Open issues**: 56 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 9 · **Open PRs**: 2 · **Closed issues**: 55 · **Open issues**: 1 · **Commits**: 30
+- **Releases**: 7 · **Merged PRs**: 11 · **Open PRs**: 3 · **Closed issues**: 55 · **Open issues**: 1 · **Commits**: 32
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 1 | 2 | 0 | 1 | 1 |
-| 90d | 2026-07-16 | 2 | 5 | 2 | 0 | 1 | 9 |
-| last180d | 2026-04-17 | 2 | 5 | 2 | 1 | 1 | 9 |
-| 360d | 2025-10-19 | 2 | 5 | 2 | 48 | 1 | 10 |
-| last720d | 2024-10-24 | 3 | 8 | 2 | 50 | 1 | 11 |
+| 30d | 2026-09-15 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-08-16 | 0 | 3 | 3 | 0 | 1 | 3 |
+| 90d | 2026-07-17 | 2 | 7 | 3 | 0 | 1 | 11 |
+| last180d | 2026-04-18 | 2 | 7 | 3 | 1 | 1 | 11 |
+| 360d | 2025-10-20 | 2 | 7 | 3 | 48 | 1 | 12 |
+| last720d | 2024-10-25 | 3 | 10 | 3 | 50 | 1 | 13 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for apw lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:05:59Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T03:48:48Z._
