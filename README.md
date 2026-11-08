@@ -36,22 +36,22 @@ Total: **887** lines of code across **11** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 266 · **Forks**: 23 · **Open issues**: 56 · **Contributors**: 5
+- **Stars**: 267 · **Forks**: 24 · **Open issues**: 57 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 11 · **Open PRs**: 5 · **Closed issues**: 55 · **Open issues**: 1 · **Commits**: 32
+- **Releases**: 7 · **Merged PRs**: 11 · **Open PRs**: 6 · **Closed issues**: 55 · **Open issues**: 2 · **Commits**: 32
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 2 | 3 | 0 | 0 | 2 |
-| last60d | 2026-09-08 | 0 | 2 | 3 | 0 | 0 | 2 |
-| 90d | 2026-08-09 | 0 | 3 | 5 | 0 | 1 | 3 |
-| last180d | 2026-05-11 | 2 | 7 | 5 | 1 | 1 | 11 |
-| 360d | 2025-11-12 | 2 | 7 | 5 | 48 | 1 | 12 |
-| last720d | 2024-11-17 | 3 | 10 | 5 | 49 | 1 | 13 |
+| 30d | 2026-10-09 | 0 | 2 | 4 | 0 | 1 | 0 |
+| last60d | 2026-09-09 | 0 | 2 | 4 | 0 | 1 | 2 |
+| 90d | 2026-08-10 | 0 | 3 | 6 | 0 | 2 | 3 |
+| last180d | 2026-05-12 | 2 | 7 | 6 | 1 | 2 | 11 |
+| 360d | 2025-11-13 | 2 | 7 | 6 | 48 | 2 | 12 |
+| last720d | 2024-11-18 | 3 | 10 | 6 | 49 | 2 | 13 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for apw lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:13:49Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:08:11Z._
