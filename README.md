@@ -36,7 +36,7 @@ Total: **887** lines of code across **11** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 271 · **Forks**: 26 · **Open issues**: 58 · **Contributors**: 5
+- **Stars**: 271 · **Forks**: 27 · **Open issues**: 58 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **887** lines of code across **11** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 4 | 0 | 2 | 0 |
-| last60d | 2026-09-21 | 0 | 2 | 5 | 0 | 2 | 2 |
-| 90d | 2026-08-22 | 0 | 3 | 7 | 0 | 3 | 3 |
-| last180d | 2026-05-24 | 2 | 7 | 7 | 0 | 3 | 11 |
-| 360d | 2025-11-25 | 2 | 7 | 7 | 48 | 3 | 12 |
-| last720d | 2024-11-30 | 3 | 10 | 7 | 49 | 3 | 13 |
+| 30d | 2026-10-22 | 0 | 0 | 4 | 0 | 2 | 0 |
+| last60d | 2026-09-22 | 0 | 2 | 5 | 0 | 2 | 2 |
+| 90d | 2026-08-23 | 0 | 3 | 7 | 0 | 3 | 3 |
+| last180d | 2026-05-25 | 2 | 7 | 7 | 0 | 3 | 11 |
+| 360d | 2025-11-26 | 2 | 7 | 7 | 48 | 3 | 12 |
+| last720d | 2024-12-01 | 3 | 10 | 7 | 49 | 3 | 13 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for apw lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T06:22:31Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:11:32Z._
